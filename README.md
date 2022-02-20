@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adill, Physics student and audio engineer 
-- 👀 I’m interested in Python, Physics, Psychology, and History
-- 🌱 I’m currently learning Physics at Univeristy of Bristol
+- 👀 I’m interested in Python, Electronics, Physics, Signal Processing, and Psychology
+- 🌱 I’m currently learning Physics at Univeristy of Bristol, UK
 - 💞️ I’m looking to find a job as a Python dev
 - 📫 How to reach me ---> adillwmaa@gmail.com
 
