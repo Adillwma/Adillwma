@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adill, Physics student and audio engineer 
+- 👋 Hi, I’m @Adill Al-Ashgar
 - 📫 How to reach me ---> adillwmaa@gmail.com
 
 <!---
