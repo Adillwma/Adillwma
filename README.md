@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adill Al-Ashgar
-- 📫 How to reach me ---> adillwmaa@gmail.com of adill@neuralworkx.com
+- 📫 How to reach me ---> adillwmaa@gmail.com or adill@neuralworkx.com
 
 <!---
 Adillwma/Adillwma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
