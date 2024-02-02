@@ -1,15 +1,15 @@
 <p align="center">
 
-
-<a href="https://neuralworkx.com">
-    <img src="https://img.shields.io/badge/neuralworkx.com-red?style=flat-square">
-</a>  
 <a href="https://www.linkedin.com/in/adillwma/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:adill@neuralworkx.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
+<a href="https://neuralworkx.com">
+    <img src="https://img.shields.io/badge/neuralworkx.com-red?style=flat-square">
+</a>  
+
 <br/> 
 
 <a href="https://github.com/adillwma">
